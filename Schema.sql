@@ -22,7 +22,7 @@ CREATE TABLE netflix
 
 SELECT * FROM netflix;
 
-
+SELECT * FROM netflix;
 
 
 
