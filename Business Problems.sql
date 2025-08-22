@@ -1,4 +1,4 @@
--- Netflix Project
+-- NETFLIX PROJECT
 
 -- 15 Business Problems & Solutions
 
