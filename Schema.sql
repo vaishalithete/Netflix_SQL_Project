@@ -1,5 +1,4 @@
--- Netflix Project
-
+-- NETFLIX PROJECT
 -- Netflix Data Analysis using SQL
 
 
@@ -21,11 +20,3 @@ CREATE TABLE netflix
 );
 
 SELECT * FROM netflix;
-
-SELECT * FROM netflix;
-
-
-
-
-
-
