@@ -1,5 +1,8 @@
 -- Netflix Project
 
+-- Netflix Data Analysis using SQL
+
+
 DROP TABLE IF EXISTS netflix;
 CREATE TABLE netflix 
 (
